@@ -4,7 +4,7 @@
     <display-name>CANAL 79 MAR DEL PLATA</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" />
   </channel>
-   <programme start="20260423000000 -0400" stop="20280423012300 -0400" channel="C79MDP">
+   <programme start="20260101000000 -0400" stop="20280423012300 -0400" channel="C79MDP">
     <title>CANAL 79 MAR DEL PLATA</title>
     <desc>Actualización a tiempo real del clima, pronósticos y noticias.</desc>
     <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg" />
