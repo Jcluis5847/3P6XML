@@ -4,6 +4,10 @@
     <display-name>Mar del Plata</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true"/>
   </channel>
+    <channel id="C2MDP">
+    <display-name> Canal 2 MDP</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true"/>
+  </channel>
     <channel id="GH24HS">
     <display-name>Gran Hermano 24Hs</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
@@ -27,6 +31,10 @@
   <programme start="20260425000000 +0000" stop="20260430000000 +0000" channel="C79MDP">
     <title lang="es">Servicios y Clima</title>
     <desc lang="es">Servicios y Clima</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20260430000000 +0000" channel="C2MDP">
+    <title lang="es">Canal 2 Mar del Plata</title>
+    <desc lang="es">Sin informacion</desc>
   </programme>
   <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GH24HS">
     <title lang="es">DGO Presentan: Espiando la casa</title>
