@@ -12,6 +12,10 @@
     <display-name>Gen TV</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true"/>
   </channel>
+        <channel id="NEOTV">
+    <display-name>Neo TV</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true"/>
+  </channel>
     <channel id="GH24HS">
     <display-name>Gran Hermano 24Hs</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
@@ -42,6 +46,10 @@
   </programme>
       <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="GENTV">
     <title lang="es">Gen TV</title>
+    <desc lang="es">Sin informacion</desc>
+  </programme>
+        <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="NEOTV">
+    <title lang="es">Neo TV</title>
     <desc lang="es">Sin informacion</desc>
   </programme>
   <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GH24HS">
