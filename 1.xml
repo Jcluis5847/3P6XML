@@ -42,7 +42,7 @@
   </channel>
   <channel id="R10MDP">
     <display-name>Radio 10 Mar del Plata</display-name>
-    <icon src="tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" />
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" />
   </channel>
   <channel id="R910AM">
     <display-name>Radio La Red AM910</display-name>
