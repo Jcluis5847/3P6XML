@@ -60,6 +60,12 @@
     <display-name>FM Compacto FM 97.3MHz</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" />
   </channel>
+  <channel id="LA97">
+    <display-name>La 97 - Siempre tu musica</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" />
+  </channel>
+
+  
     <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="C79MDP">
     <title lang="es">Servicios y Clima</title>
     <desc lang="es">Servicios y Clima</desc>
@@ -119,5 +125,9 @@
     <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="FMCOMPACTO">
     <title lang="es">FM Compacto ¡Tu Radio!</title>
     <desc lang="es">FM Compacto ¡Tu Radio!</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="LA97">
+    <title lang="es">La 97 - Siempre tu musica</title>
+    <desc lang="es">La 97 - Siempre tu musica</desc>
   </programme>
 </tv>
