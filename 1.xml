@@ -53,7 +53,7 @@
     <icon src="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true" />
   </channel>
   <channel id="RYPFM">
-    <display-name>Rock&Pop FM 95.9MHz</display-name>
+    <display-name>Rock and Pop FM 95.9MHz</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" />
   </channel>
   <channel id="FMCOMPACTO">
@@ -113,8 +113,8 @@
     <desc lang="es">KLA Rock Y Opinion</desc>
   </programme>
     <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="RYPFM">
-    <title lang="es">ROCK&POP 95.9FM NOSGUSTAELROCK</title>
-    <desc lang="es">ROCK&POP 95.9FM NOSGUSTAELROCK</desc>
+    <title lang="es">ROCK and POP 95.9FM NOSGUSTAELROCK</title>
+    <desc lang="es">ROCK and POP 95.9FM NOSGUSTAELROCK</desc>
   </programme>
     <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="FMCOMPACTO">
     <title lang="es">FM Compacto ¡Tu Radio!</title>
